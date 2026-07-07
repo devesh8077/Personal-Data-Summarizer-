@@ -114,8 +114,7 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights using Python, SQL, Excel, and Power BI.
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: 
 
 ---
 
